@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, USBH4xx0rActivity!</string>
+    <string name="app_name">USBH4xx0r</string>
+    <string name="warn1">WARNING: This application could crash a Windows host if used incorrectly!</string>
+    <string name="switchtoums">Switch to Mass Storage Mode</string>
+    <string name="switchtomtpmode">Switch to MTP mode</string>
+    <string name="mountiso">Mount ISO</string>
+    <string name="cdr1">CD-ROM 1</string>
+    <string name="umount">Umount ISO</string>
+    <string name="curriso">Mounted ISO:</string>
+    <string name="usbmode">USB Mode:</string>
+
+</resources>
